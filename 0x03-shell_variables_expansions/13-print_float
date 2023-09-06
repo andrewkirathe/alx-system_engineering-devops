@@ -1,0 +1,3 @@
+#!/bin/bash 
+print f ‘ % . 2f ‘ $ NUM | sort
+
