@@ -15,3 +15,5 @@
 {echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)} = Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. Remember, You are not allowed to use backticks, &&, || or ;
 
 {ls -la > ls_cwd_content} = Write a script that writes into the file ls_cwd_content the result of the command ls -la
+
+{tail -n1 iacta >> iacta} = Write a script that duplicates the last line of the file iacta. The file iacta will be in the working directory
